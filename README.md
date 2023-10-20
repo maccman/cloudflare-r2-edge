@@ -1,8 +1,6 @@
-# cloudflare-r2-edge
+# Cloudflare R2 Edge
 
 [![NPM version](https://img.shields.io/npm/v/cloudflare-r2-edge?color=a1b858&label=)](https://www.npmjs.com/package/cloudflare-r2-edge)
-
-# Cloudflare R2 Edge
 
 This is a TypeScript library that provides an interface to interact with Cloudflare's R2 Storage. It allows you to generate signed URLs, retrieve files, and upload files or blobs to a given key.
 
@@ -23,7 +21,6 @@ pnpm i cloudflare-r2-edge
 First, import the CloudflareR2Client class from the library:
 
 ```typescript
-typescript
 import { CloudflareR2Client } from 'cloudflare-r2-edge'
 ```
 

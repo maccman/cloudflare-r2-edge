@@ -11,7 +11,11 @@
     "url": "https://github.com/maccman/cloudflare-r2-edge.git"
   },
   "bugs": "https://github.com/maccman/cloudflare-r2-edge/issues",
-  "keywords": [],
+  "keywords": [
+    "cloudflare",
+    "r2",
+    "edge"
+  ],
   "sideEffects": false,
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
