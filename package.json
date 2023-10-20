@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-r2-edge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@8.9.0",
   "description": "",
   "author": "Alex MacCaw <alex@alexmaccaw.com>",
